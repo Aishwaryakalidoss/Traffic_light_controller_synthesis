@@ -37,12 +37,16 @@ The Liberty files are present in the library path,
 • The tool used for Synthesis is “Genus”. Hence, type “genus -gui” to open the tool.
 
 • Genus Script file with .tcl file Extension commands are executed one by one to synthesize the netlist.
-
 Synthesis RTL Schematic :
+![Screenshot 2024-11-25 122431](https://github.com/user-attachments/assets/30a022c9-f3da-4b8d-bf84-ec030f490032)
 
 Area report:
+![Screenshot 2024-11-25 122510](https://github.com/user-attachments/assets/c2c4980e-e801-4273-88af-33c22a8006d9)
+
 
 Power Report:
+![Screenshot 2024-11-25 122549](https://github.com/user-attachments/assets/7cffa84c-f2b9-4b9c-8920-323b3fd2b527)
+
 
 Result:
 
